@@ -4,6 +4,6 @@ Due to occlusions (coming due to the presence of mirror in the middle of camera 
 
 ![](yolo_limit.gif)
 
-Same is the case with Mask-RCNN. But for a different video with high resolution and less occlusions, the case becomes different.
+Same is the case with Mask-RCNN. But for a different video with high resolution and less occlusions, the case becomes different. Note that in the video below, the moving car comes in front of the parked on for few seconds and thus YOLO couldn't detect the occluded car and the count changed. Other than that it worked fine for the resolution the video had. 
 
 ![](more_resolution.gif)
