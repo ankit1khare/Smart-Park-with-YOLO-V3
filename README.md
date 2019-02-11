@@ -6,4 +6,4 @@ Due to occlusions (coming due to the presence of mirror in the middle of camera 
 
 Same is the case with Mask-RCNN. But for a different video with high resolution and less occlusions, the case becomes different.
 
-pending...
+![](more_resolution.gif)
